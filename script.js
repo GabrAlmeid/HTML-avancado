@@ -15,7 +15,7 @@ image.addEventListener("click", function() {
 
 let lista = document.getElementById("lista");
 
-lista.dataset.num = "4"
+lista.dataset.num = "8"
 
 let id = lista.dataset.id;
 console.log(id)
